@@ -56,6 +56,16 @@
        "description": "Український чат",
        "value": "GIVE-UA",
        "default": false
+      },
+      {
+        "label": "PL",
+        "emoji": {
+            "name": "🇵🇱",
+            "animated": false
+        },
+        "description": "Polski chat",
+        "value": "GIVE-PL",
+        "default": false
       }
      ],
      "placeholder": "🤷‍♂️",
