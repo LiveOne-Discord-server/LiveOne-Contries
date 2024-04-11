@@ -1,0 +1,68 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "image": {
+    "url": "https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce009922f9f0dda.gif"
+   },
+   "title": "Please have contries !",
+   "fields": null
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 3,
+     "custom_id": "Scrool Contries",
+     "options": [
+      {
+       "label": "EU",
+       "emoji": {
+        "name": "🇪🇺",
+        "animated": false
+       },
+       "description": "European chat",
+       "value": "GIVE-EU",
+       "default": false
+      },
+      {
+       "label": "GLOBAL",
+       "emoji": {
+        "name": "🇺🇳",
+        "animated": false
+       },
+       "description": "European chat",
+       "value": "GIVE-GL",
+       "default": false
+      },
+      {
+       "label": "RU",
+       "emoji": {
+        "name": "🇷🇺",
+        "animated": false
+       },
+       "description": "Русский чат",
+       "value": "GIVE-RU",
+       "default": false
+      },
+      {
+       "label": "UA",
+       "emoji": {
+        "name": "🇺🇦",
+        "animated": false
+       },
+       "description": "Український чат",
+       "value": "GIVE-UA",
+       "default": false
+      }
+     ],
+     "placeholder": "🤷‍♂️",
+     "min_values": 0,
+     "max_values": 4
+    }
+   ]
+  }
+ ]
+}
