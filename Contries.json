@@ -1,12 +1,10 @@
 {
- "content": null,
  "embeds": [
   {
    "image": {
     "url": "https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce009922f9f0dda.gif"
    },
-   "title": "Please have contries !",
-   "fields": null
+   "title": "Please select the chats to start talking."
   }
  ],
  "components": [
@@ -33,7 +31,7 @@
         "name": "🇺🇳",
         "animated": false
        },
-       "description": "European chat",
+       "description": "Global chat",
        "value": "GIVE-GL",
        "default": false
       },
