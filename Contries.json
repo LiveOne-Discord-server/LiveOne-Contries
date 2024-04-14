@@ -4,7 +4,8 @@
    "image": {
     "url": "https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce009922f9f0dda.gif"
    },
-   "title": "Please select the chats to start talking."
+   "title": "Please select the chats to start talking.",
+   "color": "#6629d6"
   }
  ],
  "components": [
@@ -53,6 +54,46 @@
        },
        "description": "Український чат",
        "value": "GIVE-UA",
+       "default": false
+      },
+      {
+       "label": "BL",
+       "emoji": {
+        "name": "🇧🇾",
+        "animated": false
+       },
+       "description": "Беларускі чат",
+       "value": "GIVE-BL",
+       "default": false
+      },
+      {
+       "label": "KZ",
+       "emoji": {
+        "name": "🇰🇿",
+        "animated": false
+       },
+       "description": "Қазақша чат",
+       "value": "GIVE-KZ",
+       "default": false
+      },
+      {
+       "label": "DE",
+       "emoji": {
+        "name": "🇩🇪",
+        "animated": false
+       },
+       "description": "Deutscher Chatraum",
+       "value": "GIVE-DE",
+       "default": false
+      },
+      {
+       "label": "PL",
+       "emoji": {
+        "name": "🇵🇱",
+        "animated": false
+       },
+       "description": "Polski czat",
+       "value": "GIVE-PL",
        "default": false
       }
      ],
